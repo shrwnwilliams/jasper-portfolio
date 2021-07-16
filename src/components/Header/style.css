@@ -1,0 +1,15 @@
+.head {
+    height: 100px;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px
+}
+
+.nav {
+    text-align: center;
+    color: white;
+}
